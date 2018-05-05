@@ -1,4 +1,1 @@
-/opt/clion-2018.1.1/bin/cmake/bin/cmake -DCMAKE_BUILD_TYPE=Debug -G "CodeBlocks - Unix Makefiles" /home/guru/CLionProjects/fork
--- Configuring done
--- Generating done
--- Build files have been written to: /home/guru/CLionProjects/fork/cmake-build-debug
+CMakeLists.txt not found in C:\Users\Stelios\CLionProjects\ntua-os\Άσκηση2\fork Select CMakeLists.txt file...
