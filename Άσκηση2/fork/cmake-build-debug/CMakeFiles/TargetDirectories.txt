@@ -1,0 +1,3 @@
+/home/guru/CLionProjects/fork/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/guru/CLionProjects/fork/cmake-build-debug/CMakeFiles/edit_cache.dir
+/home/guru/CLionProjects/fork/cmake-build-debug/CMakeFiles/fork.dir
